@@ -1,16 +1,13 @@
-## Hi there 👋
+## 💥 Meu perfil 💥
 
-<!--
-**Rianbr84/Rianbr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor Front-End em constante evolução.
 
-Here are some ideas to get you started:
+💻 Trabalho com HTML, CSS, JavaScript e estou me aprofundando em React, buscando sempre criar interfaces modernas, responsivas e funcionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente focado em aprimorar minhas habilidades através de estudos e projetos práticos, aplicando boas práticas de desenvolvimento e organização de código.
+
+📌 Aqui no GitHub você vai encontrar meus projetos, desafios e toda a minha evolução ao longo da minha jornada na programação.
+
+✌️ Sempre aprendendo, evoluindo e construindo.
+
+🧑‍💼 Aqui está meu perfil no Linkedin 👉 https://www.linkedin.com/in/rian-lucas-38612030a/
